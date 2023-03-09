@@ -11,7 +11,7 @@ import java.util.List;
 import static org.junit.jupiter.api.Assertions.*;
 
 class AuthorTest {
-    private Books books;
+
     private Books actual;
 
 
